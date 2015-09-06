@@ -1,9 +1,9 @@
 {
-  "name": "text-encoder-lite",
+  "name": "text-encoder-lite-module",
   "version": "1.0.0",
-  "homepage": "https://github.com/coolaj86/text-encoder-lite",
+  "homepage": "https://github.com/rschuchart/TextEncoderLiteModule",
   "authors": [
-    "AJ ONeal <awesome@coolaj86.com>"
+    "Roderic Schuchart <rschuchart@evandor.de>"
   ],
   "description": "Polyfill for the Encoding Living Standard's API",
   "main": [ "index.js" ],
